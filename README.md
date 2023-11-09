@@ -41,4 +41,6 @@ Database Used-Car
 
 #### Image SVg
 
-![Tux, the Linux mascot](/used_car.drawio.svg)
+![Tux, the Linux mascot](/used_car_border_shadow.svg)
+![Tux, the Linux mascot](/used_car_border.svg)
+![Tux, the Linux mascot](/used_car.svg)
