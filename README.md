@@ -1,18 +1,7 @@
 Database Used-Car
 ===
 
-#### Numeri
-TINYINT UNSIGNED 250 - SMALLINT UNSIGNED 65k 
-MEDIUMINT 16kk - INT - BIGINT 
-
-#### Stringe
-CHAR() VARCHAR() max250 - TEXT 65k - MEDIUMTEXT - LONGTEXT
-
-#### Tipo di dato
-PRIMARY - AUTO_INCREMENT 
-UNIQUE - NULL - NOTNULL - DEFAULT()
-
-## Table
+#### Table
 
 | Syntax           | Description       | Altro         |
 | ---------------- | ----------------- | ------------- |
