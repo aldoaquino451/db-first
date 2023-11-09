@@ -38,3 +38,7 @@ Database Used-Car
 | emission | VARCHAR(10) | NULL |
 | consumption | TINYINT UNSIGNED | NUL |
 
+
+#### Image SVg
+
+![Tux, the Linux mascot](/used_car.drawio.svg)
